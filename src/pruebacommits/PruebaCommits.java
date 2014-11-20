@@ -9,6 +9,7 @@ public class PruebaCommits {
         int a=2, b=3;
         System.out.println("Hula commit");
         System.out.println(a+b);
+        System.out.println("Fin programa");
     }
     
 }
